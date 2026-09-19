@@ -53,7 +53,7 @@ To deploy your own copy: push this repo to GitHub, then go to [share.streamlit.i
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/<your-username>/devwrapped.git
+git clone https://github.com/ollivanter/devwrapped.git
 cd devwrapped
 ```
 
